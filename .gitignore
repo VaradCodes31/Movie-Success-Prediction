@@ -1,0 +1,23 @@
+# Environment
+movie_env/
+venv/
+.env
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.pkl
+*.pickle
+
+# Models
+models/
+
+# IDE
+.vscode/
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
